@@ -4,6 +4,7 @@ My goals:
 **Step by step to complete the design of the reduced instryction set CPU and FPGA impementation.**
 This project include dirc below：
 - risc-v knowledge
+- Computer Architecture
 - hardware
 - script
 - software
